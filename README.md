@@ -5,6 +5,8 @@ This is a template for creating applications using Next.js 14 (app directory) an
 ## Technologies Used
 
 - [Next.js 14](https://nextjs.org/docs/getting-started)
+- [Auth Js V5](https://authjs.dev/)
+- [Jotai V2](https://jotai.org/)
 - [NextUI v2](https://nextui.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Tailwind Variants](https://tailwind-variants.org)
